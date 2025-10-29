@@ -17,6 +17,7 @@ It demonstrates distributed system design, conflict-free collaboration, and clou
 - **Frontend**: React, Next.js, TipTap (ProseMirror), Yjs
 - **Infrastructure**: Docker, Kubernetes, AWS (EKS, RDS, ElastiCache), Terraform
 - **Monitoring**: Prometheus, Grafana, OpenTelemetry
+- <img width="1458" height="976" alt="image" src="https://github.com/user-attachments/assets/8471ca0b-8807-4c8a-bad2-c06016071aab" />
 
 ## 📈 Roadmap
 1. ✅ Real-time text sync with WebSocket  
@@ -25,10 +26,6 @@ It demonstrates distributed system design, conflict-free collaboration, and clou
 4. 🔄 Document history & replay (Kafka + Postgres)  
 5. 🔄 Metrics dashboards (Prometheus + Grafana)  
 6. 🔄 AWS deployment with CI/CD (GitHub Actions + Terraform)
-
-## Tech Stack Design
-<img width="1458" height="976" alt="image" src="https://github.com/user-attachments/assets/8471ca0b-8807-4c8a-bad2-c06016071aab" />
-
 
 ## 📸 Demo
 *(coming soon)* – Demo GIF showing two users editing the same document in real-time.
